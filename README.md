@@ -1,4 +1,4 @@
-# gym simulation with AnyLogic
+# Gym simulation with AnyLogic
 2018-2019 fall IE381/3081 - Modeling and Discrete Simulation Project-1
 
 
